@@ -70,6 +70,7 @@
             android:layout_marginBottom="24dp"
             android:text="@string/login_button"
             android:background="@color/button_blue"
+            android:foreground="?android:attr/selectableItemBackground"
             android:textFontWeight="500"
             android:textSize="16sp"
             android:textColor="@color/buttonTextWhite"
