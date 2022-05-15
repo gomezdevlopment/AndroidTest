@@ -107,7 +107,7 @@ public class ChatActivity extends AppCompatActivity {
 
             @Override
             public void onFailure(Call<ChatLogModel> call, Throwable t) {
-                Toast.makeText(binding.getRoot().getContext(), "ERROR", Toast.LENGTH_SHORT).show();
+                Toast.makeText(binding.getRoot().getContext(), t.getMessage(), Toast.LENGTH_SHORT).show();
             }
         });
     }
