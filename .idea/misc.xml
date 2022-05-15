@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/batmi/Desktop/AndroidTest/app/src/main/res/drawable/ic_animation.xml" value="0.328" />
+        <entry key="..\:/Users/batmi/Desktop/AndroidTest/app/src/main/res/drawable/ic_avatar_placeholder.xml" value="0.328" />
+        <entry key="..\:/Users/batmi/Desktop/AndroidTest/app/src/main/res/drawable/ic_chat.xml" value="0.328" />
+        <entry key="..\:/Users/batmi/Desktop/AndroidTest/app/src/main/res/drawable/ic_code.xml" value="0.1965" />
+        <entry key="..\:/Users/batmi/Desktop/AndroidTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.328" />
+        <entry key="..\:/Users/batmi/Desktop/AndroidTest/app/src/main/res/drawable/ic_lock.xml" value="0.328" />
+        <entry key="..\:/Users/batmi/Desktop/AndroidTest/app/src/main/res/layout/activity_animation.xml" value="0.33" />
+        <entry key="..\:/Users/batmi/Desktop/AndroidTest/app/src/main/res/layout/activity_chat.xml" value="0.3671875" />
+        <entry key="..\:/Users/batmi/Desktop/AndroidTest/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/batmi/Desktop/AndroidTest/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/batmi/Desktop/AndroidTest/app/src/main/res/layout/item_chat.xml" value="0.5" />
+        <entry key="..\:/Users/batmi/Desktop/AndroidTest/app/src/main/res/layout/login_dialog.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK" />
+</project>
