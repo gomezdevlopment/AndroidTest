@@ -21,6 +21,8 @@ import com.squareup.picasso.Picasso;
 
 import org.w3c.dom.Text;
 
+import de.hdodenhof.circleimageview.CircleImageView;
+
 /**
  * A recycler view adapter used to display chat log messages in {@link ChatActivity}.
 
@@ -88,14 +90,14 @@ public class ChatAdapter extends RecyclerView.Adapter<ChatAdapter.ChatViewHolder
 
     public static class ChatViewHolder extends RecyclerView.ViewHolder
     {
-        ImageView avatarImageView;
+        CircleImageView avatarImageView;
         TextView messageTextView;
         TextView name;
 
         public ChatViewHolder(View view)
         {
             super(view);
-            avatarImageView = (ImageView)view.findViewById(R.id.avatarImageView);
+            avatarImageView = (CircleImageView)view.findViewById(R.id.avatarImageView);
             messageTextView = (TextView)view.findViewById(R.id.messageTextView);
             name = (TextView)view.findViewById(R.id.name);
 
